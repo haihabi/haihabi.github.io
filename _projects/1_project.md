@@ -4,7 +4,7 @@ title: PyNNcml
 description: A python toolbox for rain estimation.
 img: assets/img/cml_figure.jpg
 importance: 1
-category: M.Sc
+category: work
 related_publications: true
 ---
 
