@@ -25,4 +25,8 @@ latest_posts:
 ---
 
 
-I'm Hai Victor Habi, a Ph.D. student in the School of Electrical Engineering at Tel Aviv University, where I'm advised by Professor [Hagit Messer](https://www.messer.sites.tau.ac.il/) and Professor [Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler)  (University of Illinois Urbana-Champaign).  I previously earned my M.Sc. from Tel Aviv University under the supervision of Professor Hagit Messer.  Currently, I also work part-time at Sony Semiconductor Israel, leading research and algorithm development for efficient deep learning.
+I'm Hai Victor Habi, a Ph.D. student in the School of Electrical Engineering at Tel Aviv University, where I'm advised by Professor [Hagit Messer](https://www.messer.sites.tau.ac.il/) and Professor [Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler)  (University of Illinois Urbana-Champaign).  
+
+I previously earned my M.Sc. in Electrical Engineering from Tel Aviv University under the supervision of Professor Hagit Messer.  
+
+Currently, I also work part-time at Sony Semiconductor Israel, leading research and algorithm development for efficient deep learning.
