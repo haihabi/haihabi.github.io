@@ -25,8 +25,8 @@ latest_posts:
 ---
 
 
-I'm Hai Victor Habi, a Ph.D. student in the School of Electrical Engineering at Tel Aviv University, where I'm advised by Professor [Hagit Messer](https://www.messer.sites.tau.ac.il/) and Professor [Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler)  (University of Illinois Urbana-Champaign).  
+I'm a Ph.D. student in the School of Electrical Engineering at Tel Aviv University, under the supervision of Professor [Hagit Messer](https://www.messer.sites.tau.ac.il/) (Tel Aviv University) and Professor [Yoram Bresler](https://ece.illinois.edu/about/directory/faculty/ybresler)  (University of Illinois Urbana-Champaign). My research lies in the intersection of statistical signal processing and deep learning, with a focus on generative modeling. Specifically, I am developing methodologies for obtaining estimation performance bounds from data.  
 
-I previously earned my M.Sc. in Electrical Engineering from Tel Aviv University under the supervision of Professor Hagit Messer.  
+I previously earned my M.Sc. in Electrical Engineering from Tel Aviv University under the supervision of Professor Hagit Messer in the [Cellenmon Lab](https://cellenmonlab.tau.ac.il/) where I dealt with different aspects of environmental monitoring using machine learning and commercial microwave links. 
 
-Currently, I also work part-time at Sony Semiconductor Israel, leading research and algorithm development for efficient deep learning.
+Currently, I also hold a part-time at Sony Semiconductor Israel, leading research and algorithm development for efficient deep learning.
