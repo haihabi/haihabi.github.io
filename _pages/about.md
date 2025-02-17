@@ -6,7 +6,7 @@ subtitle: <a href='#'>Tel Aviv University</a>. Tel Aviv 6139001, Israel
 
 profile:
   align: right
-  image: photo_main.CRB2
+  image: main_v2.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
