@@ -18,13 +18,13 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "For an update publication list please visit [google scholar](https://scholar.google.com/citations?user=SKLM278AAAAJ&amp;hl=en&amp;inst=2457744612629960019)",
+          description: "For an update publication list please visit google scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
