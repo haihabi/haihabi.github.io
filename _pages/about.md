@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Tel Aviv University</a>. Tel Aviv 6139001, Israel
+subtitle: Tel Aviv University & Sony Semiconductor Israel
 
 profile:
   align: right
