@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-learning-to-bound",
+      
+        title: "Learning-To-Bound",
+      
+      description: "An overview of the learning-to-bound framework.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/l2b/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
