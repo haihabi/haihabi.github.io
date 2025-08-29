@@ -29,4 +29,4 @@ I'm a Ph.D. student in the School of Electrical Engineering at Tel Aviv Universi
 
 I previously earned my M.Sc. in Electrical Engineering from Tel Aviv University under the supervision of Professor Hagit Messer in the [Cellenmon Lab](https://cellenmonlab.tau.ac.il/) where I dealt with different aspects of environmental monitoring using machine learning and commercial microwave links. 
 
-Concurrently, I hold a part-time position at Sony Semiconductor Israel, where I lead research and algorithm development for efficient deep learning inference methods, including, but not limited to, quantization, pruning, and low-rank approximation.
+Also, I held a position at Sony Semiconductor Israel, where I leaded research and algorithm development for efficient deep learning inference methods, including, but not limited to, quantization, pruning, and low-rank approximation.
